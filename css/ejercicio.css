@@ -1,0 +1,27 @@
+.stuar{
+
+border:1px solid black;
+display: flex;
+list-style:none;
+}
+
+body{
+	background-image: url(../img/fondo.jpg);
+	background-repeat: repeat;
+}
+
+.stuar2{
+list-style: none;
+}
+
+li{
+	margin: 10px 10px;
+}
+
+.stuar3{
+	list-style: none;
+}
+
+h1{
+	font-size: 30px;
+}
